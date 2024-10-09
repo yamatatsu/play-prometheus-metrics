@@ -1,0 +1,22 @@
+version: "0.2"
+ignorePaths:
+  - pnpm-lock.yaml
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - autoincrement
+  - biomejs
+  - datasource
+  - fabbrica
+  - healthcheck
+  - hono
+  - Millis
+  - mydb
+  - mysqladmin
+  - openapi
+  - opentelemetry
+  - OTLP
+  - quramy
+  - yamatatsu
+ignoreWords: []
+import: []
